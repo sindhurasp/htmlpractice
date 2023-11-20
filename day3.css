@@ -1,0 +1,21 @@
+div+p{
+    color: blueviolet;
+}
+div p{
+    color:crimson;
+}
+div~h1{
+    color:darkviolet
+}
+
+p::first-letter{
+    color: crimson;
+    font-size: larger;
+}
+p::first-letter{
+    color:green;
+}
+
+li::marker{
+    color:lawngreen;
+}

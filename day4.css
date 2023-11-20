@@ -1,0 +1,27 @@
+a:link{
+    color:aqua;
+}
+a:visited{
+    color:coral;
+}
+
+a:hover{
+    color:crimson;
+}
+
+a:active{
+    color:green;
+}
+
+
+h1:first-child{
+    color: gold ;
+}
+
+h1:last-child{
+    color: lawngreen;
+}
+
+h1:nth-child(3){
+background-color: indianred;
+}
