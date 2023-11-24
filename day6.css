@@ -1,0 +1,45 @@
+body{
+    display: flex;
+
+} 
+ 
+ 
+ .a{
+    height:200px;
+    width:200px;
+    border:2px solid Black;
+    background-color: crimson;
+}
+.b{
+    height:200px;
+    width:200px;
+    border:2px solid Black;
+    background-color:rgb(000,150,000)
+}
+.c{
+    height:200px;
+    width:200px;
+    border:2px solid Black;
+    background-color: rgba(000,000,160,0.5)
+}
+.d{
+    height:200px;
+    width:200px;
+    border:2px solid Black;
+    background-color:hsl(60deg,50%,50%)
+}
+.e{
+    height:200px;
+    width:200px;
+    border:2px solid Black;
+    background-color:hsl(75deg,50%,50%,0.7);
+}
+.f{
+    height:200px;
+    width:200px;
+    border:2px solid Black;
+    background-color: #0ff;
+}
+
+
+
